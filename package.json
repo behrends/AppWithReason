@@ -4,6 +4,7 @@
   "private": true,
   "devDependencies": {
     "bs-platform": "^1.7.5",
+    "bs-react-native": "git+https://github.com/BuckleTypes/bs-react-native.git",
     "jest-expo": "~18.0.0",
     "react-native-scripts": "0.0.40",
     "react-test-renderer": "16.0.0-alpha.12",
